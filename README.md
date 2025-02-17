@@ -33,3 +33,9 @@
 ---
 
  *Nunca pares de aprender* 🚀
+
+
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--RECENT_ACTIVIT:last_update_end-->
